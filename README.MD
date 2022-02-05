@@ -23,9 +23,6 @@ java -jar xxxx.jar
 ### 演示
 
 <div style="align: center">
-<img src="https://i.postimg.cc/Y9f5pKts/065-AD1-CE-6-D41-49-BB-BB69-DF17555324-DE.jpg"/>
-</div>
-<div style="align: center">
 <img src="https://i.postimg.cc/tgP0Mnwy/3-D09-D1-C8-5-A45-4293-BB86-F543870-AFC76.jpg"/>
 </div>
 <div style="align: center">
@@ -33,5 +30,8 @@ java -jar xxxx.jar
 </div>
 <div style="align: center">
 <img src="https://i.postimg.cc/vBsRFHwn/ACC24-B69-AE62-4-F79-A03-E-9-A5-E706-EDE70.jpg"/>
+</div>
+<div style="align: center">
+<img src="https://i.postimg.cc/Y9f5pKts/065-AD1-CE-6-D41-49-BB-BB69-DF17555324-DE.jpg"/>
 </div>
 
